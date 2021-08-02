@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TMo0605
 - 👀 I’m interested in 3D printing, tinkering an programmming
-- 🌱 I’m currently learning setting up and compiling Firmware like Marli, Klipper etc.
+- 🌱 I’m currently learning setting up and compiling Firmware like Klipper, Marlin etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
